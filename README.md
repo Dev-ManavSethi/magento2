@@ -1,12 +1,12 @@
-#Magento 2.1.7
-#Requires  
+# Magento 2.1.7
+## Requires  
 Apache 2.2 or 2.4+  
 MySQL 5.6  
 PHP ~5.6.5|7.0.2|7.0.4|~7.0.6  
 composer  
 Some PHP extensions (mentioned below)  
 
-#Linux installation
+# Linux installation
 ```
 sudo apt-get update
 ```
